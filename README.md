@@ -7,6 +7,7 @@ Neste jogo, o jogador enfrenta uma **IA controlada pelo computador**.
 **Baixe ele aqui mesmo ->** ⬇️(https://github.com/222Inc/pong/releases/latest)**
 
 ---
+[![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/222Inc/pong/releases/latest)
 
 ---
 
