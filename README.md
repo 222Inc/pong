@@ -8,8 +8,6 @@ Neste jogo, o jogador enfrenta uma **IA controlada pelo computador**.
 
 
 
----
-
 ## 🎮 Como jogar
 - Use as teclas:
   - **W / S** ou **↑ / ↓** para mover a raquete
