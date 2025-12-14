@@ -1,2 +1,22 @@
-# pong
-Pong 2D clássico feito na Unity, onde o jogador enfrenta uma IA.
+# 🏓 Pong AI – Unity
+
+Um jogo clássico de **Pong (Ping Pong 2D)** desenvolvido na **Unity**.
+
+Neste jogo, o jogador enfrenta uma **IA controlada pelo computador**.
+
+---
+
+## 🎮 Como jogar
+- Use as teclas:
+  - **W / S** ou **↑ / ↓** para mover a raquete
+- Rebata a bola e marque pontos
+- O adversário é uma **Inteligência Artificial**
+- O primeiro jogador a chegar na marca de **7 pontos vence**!
+
+---
+
+## 🖥️ Como executar
+1. Baixe este repositório
+2. Abra a pasta do jogo
+3. Execute o arquivo:
+
