@@ -4,10 +4,11 @@ Um jogo clássico de **Pong (Ping Pong 2D)** desenvolvido na **Unity**.
 
 Neste jogo, o jogador enfrenta uma **IA controlada pelo computador**.
 
-**Baixe ele aqui mesmo ->** ⬇️(https://github.com/222Inc/pong/releases/latest)**
+**Baixe ele aqui mesmo ->** [![Download](https://img.shields.io/badge/Download-Baixar%20o%20jogo-blue)](../../releases/latest)
+
 
 ---
-[![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/222Inc/pong/releases/latest)
+
 
 ---
 
