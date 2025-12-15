@@ -31,5 +31,5 @@ Neste jogo, o jogador enfrenta uma **IA controlada pelo computador**.
 ## 🖥️ Como executar
 1. Baixe a Release do jogo;
 2. Abra a pasta do jogo
-3. Execute o arquivo PONG.EXE
+3. Execute o arquivo **PONG.EXE**
 
