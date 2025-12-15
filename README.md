@@ -11,7 +11,7 @@ Neste jogo, o jogador enfrenta uma **IA controlada pelo computador**.
     src="https://img.shields.io/badge/→%20Baixar%20o%20jogo-blue"
     alt="Baixar o jogo"
     style="vertical-align: middle;"
-  >
+  /img>
 </a> 
 
 
